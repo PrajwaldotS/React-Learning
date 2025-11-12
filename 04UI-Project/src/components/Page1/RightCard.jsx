@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import RightArrow from "/Users/Shhruzz/Documents/My Code/React js/UI-Project/src/assets/animations/right-arrow.json";
+import RightArrow from "../../assets/animations/right-arrow.json";
 
 const RightCard = ({card}) => {
   return (

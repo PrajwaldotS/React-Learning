@@ -1,6 +1,6 @@
 import React from "react";
 import Lottie from "lottie-react";
-import upRightArrow from "/Users/Shhruzz/Documents/My Code/React js/UI-Project/src/assets/animations/up-right-arrow.json"; // ✅ renamed
+import upRightArrow from "../../assets/animations/up-right-arrow.json"; // ✅ renamed
 
 const LeftContent = () => {
   return (
